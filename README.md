@@ -4,7 +4,7 @@
 
 [![Build Status](https://travis-ci.org/the-road-to-learn-react/react-firebase-chat.svg?branch=master)](https://travis-ci.org/the-road-to-learn-react/react-firebase-chat) [![Slack](https://slack-the-road-to-learn-react.wieruch.com/badge.svg)](https://slack-the-road-to-learn-react.wieruch.com/) [![Greenkeeper badge](https://badges.greenkeeper.io/the-road-to-learn-react/react-firebase-chat.svg)](https://greenkeeper.io/)
 
-* Found in [The Road to learn React](https://roadtoreact.com/)
+
 
 ## Features
 
@@ -14,7 +14,7 @@
 
 ## Installation
 
-* `git clone git@github.com:the-road-to-learn-react/react-firebase-chat.git`
+* `git clone github.com/awesomedev08/Chat-React-Firebase.git`
 * `cd react-firebase-chat`
 * `npm install`
 * `npm start`
